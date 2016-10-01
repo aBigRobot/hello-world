@@ -1,2 +1,4 @@
 # hello-world
-Just learning stuff
+
+Just learning some stuff and doing things.  Robots are cool.
+
